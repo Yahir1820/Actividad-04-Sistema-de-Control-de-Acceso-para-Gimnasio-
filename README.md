@@ -6,4 +6,5 @@
 
 ---
 ### Evidencia:
-- Terminal: ![Terminal](https://github.com/user-attachments/assets/79a7c1be-fea8-4492-811a-c38597e6c1e1)
+- Terminal:  
+![Terminal](https://github.com/user-attachments/assets/79a7c1be-fea8-4492-811a-c38597e6c1e1)
